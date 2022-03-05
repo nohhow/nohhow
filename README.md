@@ -8,7 +8,7 @@
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://nohhow.github.io/)](https://nohhow.github.io/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jinhyeon.noh@gmail.com)](mailto:jinhyeon.noh@gmail.com)
 
-<img src="https://user-images.githubusercontent.com/61059893/156861769-2ced50ca-dcdf-47db-8b96-3c71fc6cd5db.jpeg" width="50%" height="auto"/>
+<img src="https://user-images.githubusercontent.com/61059893/156861769-2ced50ca-dcdf-47db-8b96-3c71fc6cd5db.jpeg" width="30%" height="auto"/>
 
 </div>
 
