@@ -3,7 +3,8 @@
 <h3 align="center"> 안녕하세요 👋 </h3>
 
 <p align="center"><mark>경험</mark>과 <mark>공유</mark>를 중요하게 생각하는 개발자 <strong>노진현</strong>입니다.</p>
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://nohhow.github.io/)](https://nohhow.github.io/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jinhyeon.noh@gmail.com)](mailto:jinhyeon.noh@gmail.com)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://nohhow.github.io/)](https://nohhow.github.io/) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jinhyeon.noh@gmail.com)](mailto:jinhyeon.noh@gmail.com)
 
 ![Me](https://user-images.githubusercontent.com/61059893/156861769-2ced50ca-dcdf-47db-8b96-3c71fc6cd5db.jpeg | width = 200)
 
