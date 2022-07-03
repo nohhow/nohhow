@@ -17,14 +17,12 @@
 <h3 align="center"> 🛠 Tech Stack </h3>
 
 <div align="center">
-<h4>Main</h4>
 <img alt="Javascript" src ="https://img.shields.io/badge/Javascript-yellow.svg?&style=for-the-badge&logo=Javascript&logoColor=white"/>
 <img alt="HTML5" src ="https://img.shields.io/badge/Html-red.svg?&style=for-the-badge&logo=Html5&logoColor=white"/>
 <img alt="CSS3" src ="https://img.shields.io/badge/CSS-blue.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
 <img alt="React" src ="https://img.shields.io/badge/React.js-skyblue.svg?&style=for-the-badge&logo=React&logoColor=white"/>
 <img alt="Bootstrap" src ="https://img.shields.io/badge/Bootstrap-purple.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white"/>
 
-<h4>Sub</h4>
 <img alt="php" src ="https://img.shields.io/badge/php-black.svg?&style=for-the-badge&logo=php&logoColor=white"/>
 <img alt="node.js" src ="https://img.shields.io/badge/node.js-black.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 <img alt="TailWindCSS" src ="https://img.shields.io/badge/TailWindCSS-black.svg?&style=for-the-badge&logo=TailWindCSS&logoColor=white"/>
