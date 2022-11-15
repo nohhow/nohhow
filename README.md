@@ -21,13 +21,13 @@
 <img alt="HTML5" src ="https://img.shields.io/badge/Html-red.svg?&style=for-the-badge&logo=Html5&logoColor=white"/>
 <img alt="CSS3" src ="https://img.shields.io/badge/CSS-blue.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
 <img alt="React" src ="https://img.shields.io/badge/React.js-skyblue.svg?&style=for-the-badge&logo=React&logoColor=white"/>
-<img alt="Bootstrap" src ="https://img.shields.io/badge/Bootstrap-purple.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white"/>
+<img alt="Java" src ="https://img.shields.io/badge/Java-white.svg?&style=for-the-badge&logo=Java&logoColor=black"/>
 
 <img alt="php" src ="https://img.shields.io/badge/php-black.svg?&style=for-the-badge&logo=php&logoColor=white"/>
 <img alt="node.js" src ="https://img.shields.io/badge/node.js-black.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+<img alt="Bootstrap" src ="https://img.shields.io/badge/Bootstrap-black.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white"/>
 <img alt="TailWindCSS" src ="https://img.shields.io/badge/TailWindCSS-black.svg?&style=for-the-badge&logo=TailWindCSS&logoColor=white"/>
 <img alt="mySQL" src ="https://img.shields.io/badge/mySQL-black.svg?&style=for-the-badge&logo=mySQL&logoColor=white"/>
-<img alt="Java" src ="https://img.shields.io/badge/java-black.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <img alt="Python" src ="https://img.shields.io/badge/python-black.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="Android" src ="https://img.shields.io/badge/android-black.svg?&style=for-the-badge&logo=android&logoColor=white"/>
 
